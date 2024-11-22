@@ -12,4 +12,3 @@ cambio feature2 2
 >>>>>>> feature2
 cambio release 1
 cambio reléase 2
-cambio develop 3
